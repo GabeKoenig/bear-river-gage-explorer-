@@ -13,3 +13,4 @@
 11. Asked to retry shell access. Located the project repository under the corrected workspace path; committed the revised spec as `a436def` and the stage 1 mockup as `c00f5f4`. Worked.
 12. Asked whether the work was saved to GitHub. Checked the repository: the commits are local, no Git remote is configured, and the working tree is clean. Explained that nothing has been pushed. Worked.
 13. Asked to upload the project to GitHub. Confirmed no remote is configured and found no existing matching repository; waiting for the destination repository URL before pushing. Worked so far: local commits are ready, but nothing was uploaded.
+14. Provided the repository URL `https://github.com/GabeKoenig/bear-river-gage-explorer-.git`. Verified it was an empty public repository, configured `origin`, and pushed the `main` branch and project history. Worked.
